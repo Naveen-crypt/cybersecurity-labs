@@ -36,7 +36,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 - OverTheWire Bandit: https://overthewire.org/wargames/bandit/
 
 ## Author 
-https://github.com/Naveen-crypt
-https://tryhackme.com/p/Roxxy47
-https://www.linkedin.com/in/naveenkumbhare
-https://medium.com/@naveenkumbhare
+- https://github.com/Naveen-crypt
+- https://tryhackme.com/p/Roxxy47
+- https://www.linkedin.com/in/naveenkumbhare
+- https://medium.com/@naveenkumbhare
