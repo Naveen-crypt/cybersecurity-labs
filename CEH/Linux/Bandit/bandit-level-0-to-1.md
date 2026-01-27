@@ -29,4 +29,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 4. A file named `readme` is present.
 5. Display the content of the file.
   cat readme
-
+!(./screenshots/b02-ls-cat.png)
