@@ -31,3 +31,12 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
   cat readme
 ![ls and cat ss](./screenshots/b02-ls-cat.png)
 6. And here we get the password for bandit 1 - [ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If ]
+
+## References
+- OverTheWire Bandit: https://overthewire.org/wargames/bandit/
+
+## Author 
+https://github.com/Naveen-crypt
+https://tryhackme.com/p/Roxxy47
+https://www.linkedin.com/in/naveenkumbhare
+https://medium.com/@naveenkumbhare
