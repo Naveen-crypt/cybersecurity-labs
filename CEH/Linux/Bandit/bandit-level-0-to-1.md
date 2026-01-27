@@ -22,8 +22,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ## Solution Steps
 1. Connect to the Bandit server using SSH.
-![SSH Login](.screenshots/b01.png
-./screenshots/b01.png
+![Bandit Level 0 Screenshot](./screenshots/b01.png)
+
 3. After login, list files in the home directory.
   ls
 4. A file named `readme` is present.
