@@ -28,7 +28,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 1.Use SSH to connect to the Bandit Level 0 server using the following command:
 - ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-![Bandit Level 0 Screenshot](./screenshots/b01.png)
+![login](./screenshots/b01.png)
 
 2.List Files in the Home Directory
 After successfully logging in, list the files in the home directory
