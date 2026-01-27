@@ -30,3 +30,4 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 5. Display the content of the file.
   cat readme
 ![ls and cat ss](./screenshots/b02-ls-cat.png)
+6. And here we get the password for bandit 1 - [ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If ]
