@@ -1,34 +1,44 @@
-# Bandit Level 0 to Level 1 Walkthrough | OverTheWire
-This lab covers the solution for **OverTheWire Bandit Level 0 to Level 1**.
-Bandit is a beginner-friendly Linux wargame that helps understand
-SSH, basic Linux commands, and file handling.
+# Bandit Level 0 to Level 1 Walkthrough | OverTheWire Bandit
 
-This walkthrough is intended for:
-- Beginners in Linux
-- CEH / cybersecurity students
-- Anyone starting OverTheWire Bandit
+This walkthrough explains how to solve **OverTheWire Bandit Level 0 to Level 1**.
+Bandit is a beginner-friendly Linux wargame designed to teach SSH usage, basic Linux commands, and file handling concepts.
 
-## Level 0 → Level 1
+This guide is useful for:
+- Linux beginners
+- CEH and cybersecurity students
+- Anyone starting the OverTheWire Bandit wargame
 
-**Goal:**  
-Login to the Bandit server and find the password stored in a file.
+---
 
-**Credentials:**
-- Username: bandit0
-- Password: bandit0
+## Bandit Level 0 → Level 1
 
-**SSH Command:**
+### Goal
+Login to the Bandit server and retrieve the password stored in a file.
+
+### Credentials
+- **Username:** bandit0  
+- **Password:** bandit0  
+
+### SSH Command
+```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-## Solution Steps
-1. Connect to the Bandit server using SSH.
+
+## Solution StepsStep 1: Connect to the Bandit Server
+1.Use SSH to connect to the Bandit Level 0 server using the following command:
+- ssh bandit0@bandit.labs.overthewire.org -p 2220
+
 ![Bandit Level 0 Screenshot](./screenshots/b01.png)
 
-3. After login, list files in the home directory.
-  ls
+2.List Files in the Home Directory
+After successfully logging in, list the files in the home directory
+- ls
 4. A file named `readme` is present.
-5. Display the content of the file.
-  cat readme
+5.Read the Password File
+
+Display the contents of the readme file using the cat command:
+- cat readme
+
 ![ls and cat ss](./screenshots/b02-ls-cat.png)
 6. And here we get the password for bandit 1 - [ The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If ]
 
