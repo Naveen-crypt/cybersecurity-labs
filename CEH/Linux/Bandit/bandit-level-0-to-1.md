@@ -1,4 +1,4 @@
-![Kitty Screenshot](screenshots/kitty.png)
+![Kitty Screenshot](screenshots/b01.png)
 # Bandit Level 0 to Level 1 Walkthrough | OverTheWire Bandit
 
 This walkthrough explains how to solve **OverTheWire Bandit Level 0 to Level 1**.
