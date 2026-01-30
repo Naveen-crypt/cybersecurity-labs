@@ -1,4 +1,3 @@
-![Kitty Screenshot](screenshots/b01.png)
 # Bandit Level 0 to Level 1 Walkthrough | OverTheWire Bandit
 
 This walkthrough explains how to solve **OverTheWire Bandit Level 0 to Level 1**.
@@ -29,7 +28,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 1.Use SSH to connect to the Bandit Level 0 server using the following command:
 - ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-![login](./CEH/Linux/Bandit/screenshots/b01.png)
+![Login SS](screenshots/b01.png)
 
 2.List Files in the Home Directory
 After successfully logging in, list the files in the home directory
